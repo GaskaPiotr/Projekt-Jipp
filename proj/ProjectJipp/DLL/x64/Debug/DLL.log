@@ -1,0 +1,14 @@
+﻿  Game.cpp
+P:\proj\ProjectJipp\DLL\Game.cpp(359,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     Creating library P:\proj\ProjectJipp\x64\Debug\DLL.lib and object P:\proj\ProjectJipp\x64\Debug\DLL.exp
+  DLL.vcxproj -> P:\proj\ProjectJipp\x64\Debug\DLL.dll
+  P:\proj\ProjectJipp\DLL\API.h
+  P:\proj\ProjectJipp\DLL\Card.h
+  P:\proj\ProjectJipp\DLL\Game.h
+  P:\proj\ProjectJipp\DLL\GameState.h
+  P:\proj\ProjectJipp\DLL\Stock.h
+          5 file(s) copied.
+  P:\proj\ProjectJipp\x64\Debug\DLL.dll
+          1 file(s) copied.
+  P:\proj\ProjectJipp\x64\Debug\DLL.lib
+          1 file(s) copied.
